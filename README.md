@@ -251,7 +251,6 @@ Open the project notebook and run the cells in order.
 
 ## 🔗 Links & Resources
 
-* [GitHub Repository](<YOUR_GITHUB_REPOSITORY_URL>)
 * [Kaggle Competition](https://www.kaggle.com/competitions/bike-sharing-demand)
 * [Kaggle Dataset](https://www.kaggle.com/competitions/bike-sharing-demand/data)
 * [Scikit-learn Documentation](https://scikit-learn.org/stable/)
